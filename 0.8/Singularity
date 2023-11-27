@@ -12,3 +12,6 @@ From: debian:buster
 %post
     apt update
     apt install -y wordgrinder
+
+%runscript
+    wordgrinder "$@"
