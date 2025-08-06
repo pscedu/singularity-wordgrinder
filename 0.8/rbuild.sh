@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Copyright © 2023 Pittsburgh Supercomputing Center.
+# Copyright © 2025 Pittsburgh Supercomputing Center.
 # All Rights Reserved.
 
 IMAGE=singularity-wordgrinder-0.8.sif
